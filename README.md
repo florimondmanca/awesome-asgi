@@ -4,7 +4,15 @@
 
 > A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources.
 
-To contribute to this list, please read the [contribution guidelines](CONTRIBUTING.md).
+[ASGI] is a standard interface enabling communication between Python asynchronous applications and servers, positioned as a spiritual successor to WSGI.
+
+More than a server/application interface, ASGI enables _interoperability_ across the whole stack — servers, middleware, applications, individual components.
+
+ASGI was born in 2016 to power the Django Channels project, but the ecosystem has been particularly expanding since the arrival of projects such as Starlette and Uvicorn in 2018.
+
+This list helps you keep yourself up to date with the most awesome ASGI projects and resources. If something's missing, please [contribute](CONTRIBUTING.md). ❣️
+
+[asgi]: https://asgi.readthedocs.io
 
 **Contents**
 
