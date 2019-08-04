@@ -44,6 +44,21 @@ _General-purpose middleware to wrap around ASGI apps._
 
 _Articles, talks and other contents about ASGI._
 
+<!-- Please use anti-chronological order of publication. If date of publication is unknown, place at the bottom. -->
+
+Articles:
+
+- 2019-03-20 - [ASGI 3.0](https://www.aeracode.org/2019/03/20/asgi-30/), Andrew Godwin.
+- 2018-06-22 - [Writing an ASGI web framework](https://yoongkang.com/blog/writing-an-asgi-web-framework/), Yoong Kang Lim.
+- 2018-06-17 - [Embracing ASGI with Quart; Introducing Hypercorn](https://medium.com/@pgjones/embracing-asgi-with-quart-introducing-hypercorn-652cb6b269f5), Philip Jones.
+- _Undated_ - [Hello ASGI](https://www.encode.io/articles/hello-asgi/), Tom Christie.
+- _Undated_ - [Working with ASGI and HTTP](https://www.encode.io/articles/asgi-http/), Tom Christie.
+
+Talks:
+
+- 2019-04-12 - [Sketching out A Django redesign](https://www.youtube.com/watch?v=u8GSFEg5lnU), Tom Christie, DjangoCon Europe.
+- 2018-05 - [Taking Django Async](https://www.youtube.com/watch?v=-7taKQnndfo), Andrew Godwin, PyCon.
+
 ## Servers
 
 _ASGI web servers._
