@@ -27,6 +27,9 @@ This list helps you keep yourself up to date with the most awesome ASGI projects
 
 _Applications that expose the ASGI interface._
 
+- [Ariadne](https://github.com/mirumee/ariadne) - A Python library for implementing GraphQL servers.
+- [tartiflette-starlette](https://github.com/tartiflette/tartiflette-starlette) - ASGI support for the Tartiflette GraphQL engine.
+
 ## Application frameworks
 
 _Frameworks for building ASGI web applications._
