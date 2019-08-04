@@ -41,8 +41,8 @@ _Libraries for use in ASGI apps._
 _General-purpose middleware to wrap around ASGI apps._
 
 - [Bonnette](https://github.com/erm/bonnette) - ASGI adapter for Azure Functions.
-- [Mangum](https://github.com/erm/mangum): AWS Lambda & API Gateway support for ASGI.
-- [Sentry ASGI](https://github.com/encode/sentry-asgi): Sentry integration for ASGI frameworks.
+- [Mangum](https://github.com/erm/mangum) - AWS Lambda & API Gateway support for ASGI.
+- [Sentry ASGI](https://docs.sentry.io/platforms/python/asgi/) - Sentry integration for ASGI frameworks (part of `sentry-sdk`).
 - [timing-asgi](https://github.com/steinnes/timing-asgi) - ASGI middleware to record and emit timing metrics.
 
 ## Publications
