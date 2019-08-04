@@ -34,6 +34,8 @@ _Frameworks for building ASGI web applications._
 
 _Libraries for use in ASGI apps._
 
+- [asgiref](https://github.com/django/asgiref) - ASGI reference implementation, including function wrappers, server base classes and a WSGI-to-ASGI adapter.
+
 ## Middleware
 
 _General-purpose middleware to wrap around ASGI apps._
