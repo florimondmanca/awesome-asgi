@@ -6,8 +6,8 @@ A curated list of awesome ASGI resources.
 
 **Contents**
 
-- [Application frameworks](#application-frameworks)
 - [Servers](#servers)
+- [Application frameworks](#application-frameworks)
 
 ## Servers
 
