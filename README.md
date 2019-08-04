@@ -1,6 +1,6 @@
 # awesome-asgi
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+<!-- [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) -->
 
 A curated list of awesome ASGI resources.
 
