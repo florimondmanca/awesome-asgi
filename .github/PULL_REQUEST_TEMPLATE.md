@@ -3,13 +3,7 @@
 - [ ] This project is explicitly related to ASGI.
 - [ ] The new list entry contains project name, URL and description.
 
-**What is this project?**
-
-**Please enumerate its key features**
-
--
-
-**Do similar projects exist?**
+**Do you know about other similar projects?**
 
 <!-- Yes / No -->
 
