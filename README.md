@@ -2,7 +2,9 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of awesome ASGI resources.
+> A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources.
+
+To contribute to this list, please read the [contribution guidelines](CONTRIBUTING.md).
 
 **Contents**
 
