@@ -23,9 +23,9 @@ This list should help you keep yourself up to date with the most awesome ASGI pr
 
 ## Applications
 
-_Applications that expose the ASGI interface._
+_Apps and projects that make use of the ASGI interface._
 
-[Datasette](https://github.com/simonw/datasette/)
+[Datasette](https://github.com/simonw/datasette/) - A tool for exploring and publishing data, including ASGI-compatible components and plugins.
 
 ## Application frameworks
 
