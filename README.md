@@ -1,10 +1,11 @@
 # awesome-asgi
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Versioning](https://img.shields.io/badge/calver-YYYY.0M.MICRO-22bfda.svg)](https://calver.org)
 
 > A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources.
 
-This list should help you keep yourself up to date with the most awesome ASGI projects and resources. If you find anything missing, please [contribute](CONTRIBUTING.md). ❣️
+This list should help you keep yourself up to date with the most awesome ASGI projects and resources. Watch releases on this repo to be notified about new entries. If you find anything missing, please [contribute](CONTRIBUTING.md). ❣️
 
 [ASGI] is a standard interface positioned as a spiritual successor to WSGI. It enables communication and interoperability across the whole Python async web stack: servers, applications, middleware, and individual components.
 
