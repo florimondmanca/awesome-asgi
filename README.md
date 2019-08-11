@@ -76,6 +76,7 @@ Articles:
 
 Talks:
 
+- 2019-06-15 - [An introduction to ASGI, Asynchronous Server Gateway Interface](https://www.youtube.com/watch?v=t3gCK9QqXWU), P G Jones, PyLondinium 2019.
 - 2019-04-12 - [Sketching out A Django redesign](https://www.youtube.com/watch?v=u8GSFEg5lnU), Tom Christie, DjangoCon Europe.
 - 2018-05 - [Taking Django Async](https://www.youtube.com/watch?v=-7taKQnndfo), Andrew Godwin, PyCon.
 
