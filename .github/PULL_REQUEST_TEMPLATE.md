@@ -1,7 +1,17 @@
+<!--
+Thanks for contributing!
+
+Please review our contributing guidelines to make sure your contribution fits:
+https://github.com/florimondmanca/awesome-asgi/blob/master/CONTRIBUTING.md
+
+To help you out, the checklist below lists some of the points covered in the guidelines.
+-->
+
 **Checklist**
 
 - [ ] This project is explicitly related to ASGI.
-- [ ] The new list entry contains project name, URL and description.
+- [ ] The new list entry contains a project name, URL and description.
+- [ ] Alphabetical order is preserved across entries and sections.
 
 **What is this project?**
 
