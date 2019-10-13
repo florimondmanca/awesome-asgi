@@ -50,6 +50,7 @@ _Libraries for use in ASGI apps._
 - [HTTPX](https://www.encode.io/httpx) - Next generation HTTP client, including async support and ability to call ASGI apps directly.
 - [Mangum](https://github.com/erm/mangum) - AWS Lambda & API Gateway support for ASGI.
 - [tartiflette-starlette](https://github.com/tartiflette/tartiflette-starlette) - ASGI support for the Tartiflette GraphQL engine.
+- [ASGI-Pack](https://github.com/prostomarkeloff/asgi-pack) - A Python library for building ASGI applcations without focusing on low-level things.
 
 ## Middleware
 
