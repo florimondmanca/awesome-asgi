@@ -49,7 +49,7 @@ _Libraries for use in ASGI apps._
 - [Bonnette](https://github.com/erm/bonnette) - ASGI adapter for Azure Functions.
 - [HTTPX](https://www.encode.io/httpx) - Next generation HTTP client, including async support and ability to call ASGI apps directly.
 - [Mangum](https://github.com/erm/mangum) - AWS Lambda & API Gateway support for ASGI.
-- [tartiflette-starlette](https://github.com/tartiflette/tartiflette-starlette) - ASGI support for the Tartiflette GraphQL engine.
+- [tartiflette-asgi](https://github.com/tartiflette/tartiflette-asgi) - ASGI support for the Tartiflette GraphQL engine.
 
 ## Middleware
 
