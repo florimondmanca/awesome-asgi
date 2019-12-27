@@ -45,6 +45,7 @@ _Libraries for use in ASGI apps._
 
 - [Ariadne](https://github.com/mirumee/ariadne) - A Python library for implementing GraphQL servers.
 - [asgiref](https://github.com/django/asgiref) - ASGI reference implementation, including function wrappers, server base classes and a WSGI-to-ASGI adapter.
+- [async-asgi-testclient](https://github.com/vinissimus/async-asgi-testclient) - A framework-agnostic library for testing ASGI web applications.
 - [HTTPX](https://www.encode.io/httpx) - Next generation HTTP client, including async support and ability to call ASGI apps directly.
 - [Mangum](https://github.com/erm/mangum) - AWS Lambda & API Gateway support for ASGI.
 - [python-socketio](https://python-socketio.readthedocs.io) - WebSocket clients and servers using Socket.IO. Includes an ASGI application wrapper.
