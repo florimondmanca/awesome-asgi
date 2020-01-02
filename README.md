@@ -49,7 +49,6 @@ _Libraries for use in ASGI apps._
 - [HTTPX](https://www.encode.io/httpx) - Next generation HTTP client, including async support and ability to call ASGI apps directly.
 - [Mangum](https://github.com/erm/mangum) - AWS Lambda & API Gateway support for ASGI.
 - [python-socketio](https://python-socketio.readthedocs.io) - WebSocket clients and servers using Socket.IO. Includes an ASGI application wrapper.
-- [Scout-APM](https://pypi.org/project/scout-apm/) - Application Performance Monitoring agent supporting Django, Starlette, and Starlette-based frameworks.
 - [tartiflette-asgi](https://github.com/tartiflette/tartiflette-asgi) - ASGI support for the Tartiflette GraphQL engine.
 
 ## Middleware
@@ -59,6 +58,7 @@ _General-purpose middleware to wrap around ASGI apps._
 - [datasette-auth-github](https://github.com/simonw/datasette-auth-github) - GitHub OAuth authentication for ASGI apps. Supports restricting to specific users or member of specific teams or organizations.
 - [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) - Drop-in MessagePack support for ASGI apps and frameworks.
 - [ProxyHeadersMiddleware](https://github.com/encode/uvicorn/blob/master/uvicorn/middleware/proxy_headers.py) - Use `X-Forwarded-Proto` and `X-Forwarded-For` headers set by a known and trusted proxy to make `client` and `scheme` reference the connecting client (shipped with Uvicorn).
+- [Scout APM Starlette integration](https://docs.scoutapm.com/#starlette) - Scout APM (Application Performance Monitoring) integration with Starlette and Starlette-based frameworks. (Part of the `scout-apm` package.)
 - [Sentry ASGI](https://docs.sentry.io/platforms/python/asgi/) - Sentry integration for ASGI frameworks (part of `sentry-sdk`).
 - [Starlette middleware](https://www.starlette.io/middleware) - Middleware for CORS, HTTPS redirection, GZip compression, and more (shipped with Starlette).
 - [timing-asgi](https://github.com/steinnes/timing-asgi) - ASGI middleware to record and emit timing metrics.
