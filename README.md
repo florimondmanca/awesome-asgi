@@ -49,6 +49,7 @@ _Libraries for use in ASGI apps._
 - [HTTPX](https://www.encode.io/httpx) - Next generation HTTP client, including async support and ability to call ASGI apps directly.
 - [Mangum](https://github.com/erm/mangum) - AWS Lambda & API Gateway support for ASGI.
 - [python-socketio](https://python-socketio.readthedocs.io) - WebSocket clients and servers using Socket.IO. Includes an ASGI application wrapper.
+- [Scout-APM](https://pypi.org/project/scout-apm/) - Application Performance Monitoring agent supporting Django, Starlette, and Starlette-based frameworks.
 - [tartiflette-asgi](https://github.com/tartiflette/tartiflette-asgi) - ASGI support for the Tartiflette GraphQL engine.
 
 ## Middleware
