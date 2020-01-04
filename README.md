@@ -66,7 +66,7 @@ _Packages for building GraphQL APIs via ASGI._
 
 _Packages for monitoring ASGI web applications._
 
-- [Sentry ASGI](https://docs.sentry.io/platforms/python/asgi/) - Sentry integration for ASGI frameworks (part of `sentry-sdk`).
+- [Sentry ASGI](https://docs.sentry.io/platforms/python/asgi/) - Sentry integration for ASGI frameworks. (Shipped with `sentry-sdk`.)
 - [timing-asgi](https://github.com/steinnes/timing-asgi) - ASGI middleware to record and emit timing metrics.
 
 ## Proxies
@@ -119,15 +119,15 @@ _Tutorials about working with ASGI applications and components._
 
 _Packages and components for managing the security of ASGI web applications._
 
-- [CORSMiddleware](https://www.starlette.io/middleware/#corsmiddleware) - Allow cross-origin requests from browsers. (Shipped with Starlette)
-- [HTTPSRedirectMiddleware](https://www.starlette.io/middleware/#httpsredirectmiddleware) - Redirect HTTP/WS traffic to HTTPS/WSS. (Shipped with Starlette)
+- [CORSMiddleware](https://www.starlette.io/middleware/#corsmiddleware) - Allow cross-origin requests from browsers. (Shipped with Starlette.)
+- [HTTPSRedirectMiddleware](https://www.starlette.io/middleware/#httpsredirectmiddleware) - Redirect HTTP/WS traffic to HTTPS/WSS. (Shipped with Starlette.)
 - [TrustedHostMiddleware](https://www.starlette.io/middleware/#trustedhostmiddleware) - Guard against host header attacks by validating the `Host` header of requests. (Shipped with Starlette.)
 
 ## Serialization
 
 _Packages and components for converting the format of data in and out of ASGI web applications._
 
-- [GZipMiddleware (Starlette)](https://www.starlette.io/middleware/#gzipmiddleware) - Response content compression using GZip.
+- [GZipMiddleware](https://www.starlette.io/middleware/#gzipmiddleware) - Response content compression using GZip. (Shipped with Starlette.)
 - [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) - Drop-in MessagePack support for ASGI apps and frameworks.
 
 ## Serverless
