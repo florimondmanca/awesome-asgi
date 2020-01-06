@@ -66,7 +66,7 @@ _Packages for building GraphQL APIs via ASGI._
 
 _Packages for monitoring ASGI web applications._
 
-- [Scout APM Starlette integration](https://docs.scoutapm.com/#starlette) - Scout APM integration with Starlette and Starlette-based frameworks. (Part of the `scout-apm` package.)
+- [Scout APM Starlette](https://docs.scoutapm.com/#starlette) - Scout APM integration with Starlette and Starlette-based frameworks. (Shipped with `scout-apm`.)
 - [Sentry ASGI](https://docs.sentry.io/platforms/python/asgi/) - Sentry integration for ASGI frameworks. (Shipped with `sentry-sdk`.)
 - [timing-asgi](https://github.com/steinnes/timing-asgi) - ASGI middleware to record and emit timing metrics.
 
