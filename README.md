@@ -48,6 +48,7 @@ _Frameworks for building ASGI web applications._
 _Packages for adding authentication and managing users in ASGI web applications._
 
 - [datasette-auth-github](https://github.com/simonw/datasette-auth-github) - GitHub OAuth authentication for ASGI apps. Supports restricting to specific users or member of specific teams or organizations.
+- [Piccolo API](https://github.com/piccolo-orm/piccolo_api) - Provides session auth, token auth, rate limiting, and CSRF protection for ASGI apps.
 
 ## End-user applications
 
