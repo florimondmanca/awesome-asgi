@@ -49,6 +49,8 @@ _Frameworks for building ASGI web applications._
 _Packages for adding authentication and managing users in ASGI web applications._
 
 - [datasette-auth-github](https://github.com/simonw/datasette-auth-github) - GitHub OAuth authentication for ASGI apps. Supports restricting to specific users or member of specific teams or organizations.
+- [SessionAuth](https://piccolo-api.readthedocs.io/en/latest/session_auth/index.html) - Authenticate using sessions and cookies. (Shipped with Piccolo API, and requires Piccolo ORM.)
+- [TokenAuth](https://piccolo-api.readthedocs.io/en/latest/token_auth/index.html) - Authenticate using tokens in request headers. (Shipped with Piccolo API, and requires Piccolo ORM.)
 
 ## End-user applications
 
@@ -126,7 +128,10 @@ _Tutorials about working with ASGI applications and components._
 _Packages and components for managing the security of ASGI web applications._
 
 - [CORSMiddleware](https://www.starlette.io/middleware/#corsmiddleware) - Allow cross-origin requests from browsers. (Shipped with Starlette.)
+- [CSPMiddleware](https://piccolo-api.readthedocs.io/en/latest/csp/index.html) - Tell browsers to only run Javascript from the same origin. (Shipped with Piccolo API.)
+- [CSRFMiddleware](https://piccolo-api.readthedocs.io/en/latest/csrf/index.html) - Protect against CSRF attacks when using cookies for authentication. (Shipped with Piccolo API.)
 - [HTTPSRedirectMiddleware](https://www.starlette.io/middleware/#httpsredirectmiddleware) - Redirect HTTP/WS traffic to HTTPS/WSS. (Shipped with Starlette.)
+- [RateLimitingMiddleware](https://piccolo-api.readthedocs.io/en/latest/rate_limiting/index.html) - Protect sensitive endpoints from brute force attacks. (Shipped with Piccolo API.)
 - [TrustedHostMiddleware](https://www.starlette.io/middleware/#trustedhostmiddleware) - Guard against host header attacks by validating the `Host` header of requests. (Shipped with Starlette.)
 
 ## Serialization
