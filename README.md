@@ -139,7 +139,7 @@ _Packages and components for managing the security of ASGI web applications._
 
 _Packages and components for converting the format of data in and out of ASGI web applications._
 
-- [BrotliMiddleware](https://github.com/fullonic/brotli_middleware) - Response content compression using Brotli.
+- [brotli-asgi](https://github.com/fullonic/brotli-asgi) - Response content compression using Brotli.
 - [GZipMiddleware](https://www.starlette.io/middleware/#gzipmiddleware) - Response content compression using GZip. (Shipped with Starlette.)
 - [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) - Drop-in MessagePack support for ASGI apps and frameworks.
 
