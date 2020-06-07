@@ -161,5 +161,6 @@ _Web servers for ASGI applications._
 
 _Packages for testing ASGI applications._
 
+- [asgi-lifespan](https://github.com/florimondmanca/asgi-lifespan) - Programmatic startup/shutdown of ASGI apps. Allows testing an ASGI app without having to spin up a server.
 - [async-asgi-testclient](https://github.com/vinissimus/async-asgi-testclient) - A framework-agnostic library for testing ASGI web applications.
 - [HTTPX](https://www.encode.io/httpx) - Next generation HTTP client, including async support and ability to call ASGI apps directly.
