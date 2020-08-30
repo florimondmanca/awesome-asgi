@@ -2,6 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![Versioning](https://img.shields.io/badge/calver-YY.M.MICRO-22bfda.svg)](https://calver.org)
+[![Build Status](https://dev.azure.com/florimondmanca/public/_apis/build/status/florimondmanca.awesome-asgi?branchName=master)](https://dev.azure.com/florimondmanca/public/_build/latest?definitionId=15&branchName=master)
 
 > A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources.
 
