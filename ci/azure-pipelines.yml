@@ -1,0 +1,13 @@
+trigger:
+  - master
+
+pr:
+  - master
+
+steps:
+  - task: UsePythonVersion@0
+    inputs:
+      versionSpec: "3.8"
+    displayName: "Provision Python interpreter"
+  - bash: scripts/check
+    displayName: "Run checks"
