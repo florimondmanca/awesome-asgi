@@ -11,7 +11,6 @@ To help you out, the checklist below lists some of the points covered in the gui
 
 - [ ] This project is explicitly related to ASGI.
 - [ ] The new list entry contains a project name, URL and description.
-- [ ] Alphabetical order is preserved across entries and sections.
 
 **What is this project?**
 
