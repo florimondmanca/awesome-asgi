@@ -1,3 +1,0 @@
-#!/bin/sh -ex
-
-# job--python-check.yml requires this script to exist.
