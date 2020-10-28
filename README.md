@@ -82,7 +82,7 @@ _Packages for building GraphQL APIs via ASGI._
 _Packages for monitoring ASGI web applications._
 
 <!-- sort_by:name -->
-- [Django-GUID](https://github.com/snok/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request. (`3.0.0` is ASGI and async compatible)
+- [Django-GUID](https://github.com/snok/django-guid) - Inject a GUID (Correlation-ID/Request-ID) into every log message in a Django request. 
 - [New Relic ASGI](https://docs.newrelic.com/docs/agents/python-agent/python-agent-api/asgiapplication-python-agent-api) - New Relic integration for ASGI applications. (Shipped with `newrelic`.)
 - [opentelemetry-python](https://opentelemetry-python.readthedocs.io/en/latest/instrumentation/asgi/asgi.html) - ASGI middleware and helpers for collecting application metrics via the (currently alpha) OpenTelemetry standard. Supports HTTP and WebSocket.
 - [Scout APM Starlette](https://docs.scoutapm.com/#starlette) - Scout APM integration with Starlette and Starlette-based frameworks. (Shipped with `scout-apm`.)
