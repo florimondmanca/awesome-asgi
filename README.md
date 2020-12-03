@@ -26,6 +26,7 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 - [Resources](#resources)
   - [Reference](#reference)
   - [Talks](#publications)
+  - [Toy projects and examples](#toy-projects-and-examples)
   - [Tutorials](#tutorials)
 - [Security](#security)
 - [Serialization](#serialization)
@@ -139,6 +140,15 @@ _Talks about ASGI._
 - 2018-07-27 - [Quart; an ASGI alternative to Flask](https://www.youtube.com/watch?v=t8-Y7Kivuu0), P G Jones, EuroPython 2018.
 - 2018-05 - [Taking Django Async](https://www.youtube.com/watch?v=-7taKQnndfo), Andrew Godwin, PyCon.
 - 2017-11 - [Future Pythonic Web: ASGI & Daphne](https://www.youtube.com/watch?v=6xEKPsKBbD0), Dmitry Nazarov, PiterPy.
+
+### Toy projects and examples
+
+_Toy projects, examples and gists._
+
+<!-- sort_by:name -->
+
+- [nanoasgi](https://github.com/qweeze/nanoasgi) - A tiny zero-dependency ASGI web framework.
+- [proxycore](https://github.com/florimondmanca/proxycore) - Proof of concept for a lightweight HTTP/1.1 proxy service built with ASGI and [HTTPCore](https://github.com/encode/httpcore).
 
 ### Tutorials
 
