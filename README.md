@@ -75,7 +75,8 @@ _Packages for building GraphQL APIs via ASGI._
 
 <!-- sort_by:name -->
 
-- [Ariadne](https://github.com/mirumee/ariadne) - A Python library for implementing GraphQL servers.
+- [Ariadne](https://github.com/mirumee/ariadne) - A schema first Python library for implementing GraphQL servers.
+- [Strawberry](https://github.com/strawberry-graphql) - A code first Python library for implementing GraphQL servers, inspired by dataclasses.
 - [tartiflette-asgi](https://github.com/tartiflette/tartiflette-asgi) - ASGI support for the Tartiflette GraphQL engine.
 
 ## Monitoring
