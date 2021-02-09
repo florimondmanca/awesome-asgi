@@ -79,6 +79,12 @@ _Packages for building GraphQL APIs via ASGI._
 - [Strawberry](https://github.com/strawberry-graphql) - A code first Python library for implementing GraphQL servers, inspired by dataclasses.
 - [tartiflette-asgi](https://github.com/tartiflette/tartiflette-asgi) - ASGI support for the Tartiflette GraphQL engine.
 
+## Localization
+
+_Packages for internationalizing ASGI web applications._
+
+- [ASGI-Babel](https://github.com/klen/asgi-babel) - Adds internationalization (i18n) support to ASGI applications (asyncio / trio)
+
 ## Monitoring
 
 _Packages for monitoring ASGI web applications._
