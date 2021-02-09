@@ -58,6 +58,7 @@ _Packages for adding authentication and managing users in ASGI web applications.
 <!-- sort_by:name -->
 
 - [asgi-auth-github](https://github.com/simonw/asgi-auth-github) - GitHub OAuth authentication for ASGI apps. Supports restricting to specific users or member of specific teams or organizations.
+- [ASGI-Sessions](https://github.com/klen/asgi-sessions) - Signed Cookie-Based HTTP sessions for ASGI applications (supports asyncio/trio libs)
 - [SessionAuth](https://piccolo-api.readthedocs.io/en/latest/session_auth/index.html) - Authenticate using sessions and cookies. (Shipped with Piccolo API, and requires Piccolo ORM.)
 - [TokenAuth](https://piccolo-api.readthedocs.io/en/latest/token_auth/index.html) - Authenticate using tokens in request headers. (Shipped with Piccolo API, and requires Piccolo ORM.)
 
