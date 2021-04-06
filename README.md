@@ -43,6 +43,7 @@ _Frameworks for building ASGI web applications._
 - [Asgineer](https://github.com/almarklein/asgineer) - A really thin ASGI web framework, which includes support for long polling, SSE and websockets.
 - [Channels](https://channels.readthedocs.io/en/latest/) - Asynchronous support for Django, and the original driving force behind the ASGI project. Supports HTTP and WebSockets with Django integration, and any protocol with ASGI-native code.
 - [Django](https://docs.djangoproject.com/en/3.0/topics/async/) - The web framework for perfectionists with deadlines. Has native ASGI support since version 3.0.
+- [Falcon](https://falconframework.org) - The minimalist REST and app backend framework for Python, with a focus on reliability, correctness, and performance at scale. Native ASGI support since version 3.0.
 - [FastAPI](https://github.com/tiangolo/fastapi) - A modern, high-performance web framework for building APIs with Python 3.6+ based on standard Python type hints. Powered by Starlette and Pydantic. Supports HTTP and WebSockets.
 - [Guillotina](https://github.com/plone/guillotina) - Full-featured ASGI-compatible REST application framework, designed for high performance and horizontally scaling solutions.
 - [Quart](https://github.com/pgjones/quart) - A Python ASGI web microframework whose API is a superset of the Flask API. Supports HTTP (incl. SSE and HTTP/2 server push) and WebSockets.
