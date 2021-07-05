@@ -129,7 +129,7 @@ _Reference documentation and implementation for ASGI._
 <!-- sort_by:name -->
 
 - [ASGI Documentation](https://asgi.readthedocs.io) - Documentation site for the ASGI specification.
-- [asgiref](https://github.com/django/asgiref) - ASGI reference implementation, including function wrappers, server base classes and a WSGI-to-ASGI adapter.
+- [asgiref](https://github.com/django/asgiref) - ASGI reference implementation, including function wrappers, server base classes, type hints, and a WSGI-to-ASGI adapter.
 
 ### Talks
 
