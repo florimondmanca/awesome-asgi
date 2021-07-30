@@ -41,6 +41,7 @@ _Frameworks for building ASGI web applications._
 <!-- sort_by:name -->
 
 - [Asgineer](https://github.com/almarklein/asgineer) - A really thin ASGI web framework, which includes support for long polling, SSE and websockets.
+- [BlackSheep](https://github.com/Neoteroi/BlackSheep) - BlackSheep is an asynchronous web framework to build event based web applications with Python. It is inspired by Flask, ASP.NET Core, and the work by Yury Selivanov.
 - [Channels](https://channels.readthedocs.io/en/latest/) - Asynchronous support for Django, and the original driving force behind the ASGI project. Supports HTTP and WebSockets with Django integration, and any protocol with ASGI-native code.
 - [Django](https://docs.djangoproject.com/en/3.0/topics/async/) - The web framework for perfectionists with deadlines. Has native ASGI support since version 3.0.
 - [Falcon](https://falconframework.org) - The minimalist REST and app backend framework for Python, with a focus on reliability, correctness, and performance at scale. Native ASGI support since version 3.0.
