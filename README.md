@@ -87,7 +87,7 @@ _Packages for monitoring ASGI web applications._
 
 <!-- sort_by:name -->
 - [New Relic ASGI](https://docs.newrelic.com/docs/agents/python-agent/python-agent-api/asgiapplication-python-agent-api) - New Relic integration for ASGI applications. (Shipped with `newrelic`.)
-- [opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-asgi) - ASGI middleware and helpers for collecting application metrics via the (currently alpha) OpenTelemetry standard. Supports HTTP and WebSocket.
+- [opentelemetry-python](https://opentelemetry-python-contrib.readthedocs.io/en/latest/instrumentation/asgi/asgi.html) - ASGI middleware and helpers for collecting application metrics via the (currently alpha) OpenTelemetry standard. Supports HTTP and WebSocket.
 - [Scout APM Starlette](https://docs.scoutapm.com/#starlette) - Scout APM integration with Starlette and Starlette-based frameworks. (Shipped with `scout-apm`.)
 - [Sentry ASGI](https://docs.sentry.io/platforms/python/asgi/) - Sentry integration for ASGI frameworks. (Shipped with `sentry-sdk`.)
 - [timing-asgi](https://github.com/steinnes/timing-asgi) - ASGI middleware to record and emit timing metrics.
