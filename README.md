@@ -151,7 +151,7 @@ _Toy projects, examples and gists._
 <!-- sort_by:name -->
 
 - [nanoasgi](https://github.com/qweeze/nanoasgi) - A tiny zero-dependency ASGI web framework.
-- [proxycore](https://github.com/florimondmanca/proxycore) - Proof of concept for a lightweight HTTP/1.1 proxy service built with ASGI and [HTTPCore](https://github.com/encode/httpcore).
+- [proxyx](https://github.com/florimondmanca/proxyx) - Proof of concept for a lightweight HTTP/1.1 proxy service built with ASGI and HTTPX.
 
 ### Tutorials
 
