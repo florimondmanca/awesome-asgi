@@ -26,6 +26,7 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 - [Resources](#resources)
   - [Reference](#reference)
   - [Talks](#publications)
+  - [Toy projects and examples](#toy-projects-and-examples)
   - [Tutorials](#tutorials)
 - [Security](#security)
 - [Serialization](#serialization)
@@ -40,8 +41,10 @@ _Frameworks for building ASGI web applications._
 <!-- sort_by:name -->
 
 - [Asgineer](https://github.com/almarklein/asgineer) - A really thin ASGI web framework, which includes support for long polling, SSE and websockets.
+- [BlackSheep](https://github.com/Neoteroi/BlackSheep) - BlackSheep is an asynchronous web framework to build event based web applications with Python. It is inspired by Flask, ASP.NET Core, and the work by Yury Selivanov.
 - [Channels](https://channels.readthedocs.io/en/latest/) - Asynchronous support for Django, and the original driving force behind the ASGI project. Supports HTTP and WebSockets with Django integration, and any protocol with ASGI-native code.
 - [Django](https://docs.djangoproject.com/en/3.0/topics/async/) - The web framework for perfectionists with deadlines. Has native ASGI support since version 3.0.
+- [Falcon](https://falconframework.org) - The minimalist REST and app backend framework for Python, with a focus on reliability, correctness, and performance at scale. Native ASGI support since version 3.0.
 - [FastAPI](https://github.com/tiangolo/fastapi) - A modern, high-performance web framework for building APIs with Python 3.6+ based on standard Python type hints. Powered by Starlette and Pydantic. Supports HTTP and WebSockets.
 - [Guillotina](https://github.com/plone/guillotina) - Full-featured ASGI-compatible REST application framework, designed for high performance and horizontally scaling solutions.
 - [Pyotr](https://pyotr.readthedocs.io) - A server framework, as well as a client library, for serving and consuming OpenAPI-based Web services. Based on Starlette and [HTTPX](https://www.python-httpx.org/).
@@ -75,7 +78,8 @@ _Packages for building GraphQL APIs via ASGI._
 
 <!-- sort_by:name -->
 
-- [Ariadne](https://github.com/mirumee/ariadne) - A Python library for implementing GraphQL servers.
+- [Ariadne](https://github.com/mirumee/ariadne) - A schema first Python library for implementing GraphQL servers.
+- [Strawberry](https://github.com/strawberry-graphql) - A code first Python library for implementing GraphQL servers, inspired by dataclasses.
 - [tartiflette-asgi](https://github.com/tartiflette/tartiflette-asgi) - ASGI support for the Tartiflette GraphQL engine.
 
 ## Monitoring
@@ -84,7 +88,7 @@ _Packages for monitoring ASGI web applications._
 
 <!-- sort_by:name -->
 - [New Relic ASGI](https://docs.newrelic.com/docs/agents/python-agent/python-agent-api/asgiapplication-python-agent-api) - New Relic integration for ASGI applications. (Shipped with `newrelic`.)
-- [opentelemetry-python](https://opentelemetry-python.readthedocs.io/en/latest/instrumentation/asgi/asgi.html) - ASGI middleware and helpers for collecting application metrics via the (currently alpha) OpenTelemetry standard. Supports HTTP and WebSocket.
+- [opentelemetry-python](https://opentelemetry-python-contrib.readthedocs.io/en/latest/instrumentation/asgi/asgi.html) - ASGI middleware and helpers for collecting application metrics via the (currently alpha) OpenTelemetry standard. Supports HTTP and WebSocket.
 - [Scout APM Starlette](https://docs.scoutapm.com/#starlette) - Scout APM integration with Starlette and Starlette-based frameworks. (Shipped with `scout-apm`.)
 - [Sentry ASGI](https://docs.sentry.io/platforms/python/asgi/) - Sentry integration for ASGI frameworks. (Shipped with `sentry-sdk`.)
 - [timing-asgi](https://github.com/steinnes/timing-asgi) - ASGI middleware to record and emit timing metrics.
@@ -127,7 +131,7 @@ _Reference documentation and implementation for ASGI._
 <!-- sort_by:name -->
 
 - [ASGI Documentation](https://asgi.readthedocs.io) - Documentation site for the ASGI specification.
-- [asgiref](https://github.com/django/asgiref) - ASGI reference implementation, including function wrappers, server base classes and a WSGI-to-ASGI adapter.
+- [asgiref](https://github.com/django/asgiref) - ASGI reference implementation, including function wrappers, server base classes, type hints, and a WSGI-to-ASGI adapter.
 
 ### Talks
 
@@ -141,6 +145,15 @@ _Talks about ASGI._
 - 2018-05 - [Taking Django Async](https://www.youtube.com/watch?v=-7taKQnndfo), Andrew Godwin, PyCon.
 - 2017-11 - [Future Pythonic Web: ASGI & Daphne](https://www.youtube.com/watch?v=6xEKPsKBbD0), Dmitry Nazarov, PiterPy.
 
+### Toy projects and examples
+
+_Toy projects, examples and gists._
+
+<!-- sort_by:name -->
+
+- [nanoasgi](https://github.com/qweeze/nanoasgi) - A tiny zero-dependency ASGI web framework.
+- [proxyx](https://github.com/florimondmanca/proxyx) - Proof of concept for a lightweight HTTP/1.1 proxy service built with ASGI and HTTPX.
+
 ### Tutorials
 
 _Tutorials about working with ASGI applications and components._
@@ -148,8 +161,8 @@ _Tutorials about working with ASGI applications and components._
 <!-- sort_by:date -->
 
 - 2019-08-26 - [Quick and dirty mock service with Starlette](https://www.mattlayman.com/blog/2019/starlette-mock-service/), Matt Layman.
+- 2018-10-15 - [Working with ASGI and HTTP](https://www.encode.io/articles/asgi-http), Tom Christie.
 - 2018-06-22 - [Writing an ASGI web framework](https://yoongkang.com/blog/writing-an-asgi-web-framework/), Yoong Kang Lim.
-- _Undated_ - [Working with ASGI and HTTP](https://www.encode.io/articles/asgi-http), Tom Christie.
 
 ## Security
 
