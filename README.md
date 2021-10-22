@@ -170,6 +170,7 @@ _Packages and components for managing the security of ASGI web applications._
 
 <!-- sort_by:name -->
 
+- [asgi-ratelimit](https://github.com/abersheeran/asgi-ratelimit) - A customizable rate limiting ASGI middleware, with regex path matching support.
 - [CORSMiddleware](https://www.starlette.io/middleware/#corsmiddleware) - Allow cross-origin requests from browsers. (Shipped with Starlette.)
 - [CSPMiddleware](https://piccolo-api.readthedocs.io/en/latest/csp/index.html) - Tell browsers to only run Javascript from the same origin. (Shipped with Piccolo API.)
 - [CSRFMiddleware](https://piccolo-api.readthedocs.io/en/latest/csrf/index.html) - Protect against CSRF attacks when using cookies for authentication. (Shipped with Piccolo API.)
