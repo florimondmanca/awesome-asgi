@@ -95,10 +95,11 @@ _Packages for monitoring ASGI web applications._
 
 ## Proxies
 
-_Packages for use when running ASGI web applications behind proxies._
+_Packages for use when running ASGI web applications behind proxies, or proxying other servers via ASGI applications._
 
 <!-- sort_by:name -->
 
+- [asgiproxy](https://github.com/valohai/asgiproxy) – Tools for building HTTP and Websocket proxies for ASGI.
 - [ProxyHeadersMiddleware](https://github.com/encode/uvicorn/blob/master/uvicorn/middleware/proxy_headers.py) - Use `X-Forwarded-Proto` and `X-Forwarded-For` headers set by a known and trusted proxy to make `client` and `scheme` reference the connecting client (shipped with Uvicorn).
 
 ## Real-time web
@@ -170,6 +171,7 @@ _Packages and components for managing the security of ASGI web applications._
 
 <!-- sort_by:name -->
 
+- [asgi-ratelimit](https://github.com/abersheeran/asgi-ratelimit) - A customizable rate limiting ASGI middleware, with regex path matching support.
 - [CORSMiddleware](https://www.starlette.io/middleware/#corsmiddleware) - Allow cross-origin requests from browsers. (Shipped with Starlette.)
 - [CSPMiddleware](https://piccolo-api.readthedocs.io/en/latest/csp/index.html) - Tell browsers to only run Javascript from the same origin. (Shipped with Piccolo API.)
 - [CSRFMiddleware](https://piccolo-api.readthedocs.io/en/latest/csrf/index.html) - Protect against CSRF attacks when using cookies for authentication. (Shipped with Piccolo API.)
