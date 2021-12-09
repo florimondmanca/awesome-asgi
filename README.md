@@ -20,6 +20,7 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 - [Authentication](#authentication)
 - [End-user applications](#end-user-applications)
 - [GraphQL](#graphql)
+- [Logging](#logging)
 - [Monitoring](#monitoring)
 - [Proxies](#proxies)
 - [Real-time web](#real-time-web)
@@ -81,6 +82,14 @@ _Packages for building GraphQL APIs via ASGI._
 - [Ariadne](https://github.com/mirumee/ariadne) - A schema first Python library for implementing GraphQL servers.
 - [Strawberry](https://github.com/strawberry-graphql) - A code first Python library for implementing GraphQL servers, inspired by dataclasses.
 - [tartiflette-asgi](https://github.com/tartiflette/tartiflette-asgi) - ASGI support for the Tartiflette GraphQL engine.
+
+## Logging
+
+_Packages for logging ASGI web applications._
+
+<!-- sort_by:name -->
+
+- [Log Correlation ASGI](https://github.com/shaihulud/log-correlation-asgi) - ASGI request correlation middleware and a set of filters to trace and log requests between microservices.
 
 ## Monitoring
 
