@@ -53,6 +53,7 @@ _Frameworks for building ASGI web applications._
 - [Sanic](https://sanicframework.org/) - Sanic is a Python 3.6+ web server and web framework that's written to go fast. It allows the usage of the async/await syntax added in Python 3.5, which makes your code non-blocking and speedy. Supports HTTP and WebSockets.
 - [Starlette](https://www.starlette.io/) - Starlette is a lightweight ASGI framework/toolkit, which is ideal for building high performance asyncio services. Supports HTTP and WebSockets.
 - [Tonberry](https://ayehavgunne.github.io/Tonberry/) - Tonberry is an ASGI framework that takes a class based approach to routing. Influenced by CherryPy but made compatible with asyncio and WebSockets.
+- [Starlite](https://github.com/Goldziher/starlite) - Flexible, performant and extensible ASGI API framework built on top of Starlette and Pydantic.
 
 ## Authentication
 
