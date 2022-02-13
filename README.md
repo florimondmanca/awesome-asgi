@@ -47,6 +47,7 @@ _Frameworks for building ASGI web applications._
 - [Falcon](https://falconframework.org) - The minimalist REST and app backend framework for Python, with a focus on reliability, correctness, and performance at scale. Native ASGI support since version 3.0.
 - [FastAPI](https://github.com/tiangolo/fastapi) - A modern, high-performance web framework for building APIs with Python 3.6+ based on standard Python type hints. Powered by Starlette and Pydantic. Supports HTTP and WebSockets.
 - [Guillotina](https://github.com/plone/guillotina) - Full-featured ASGI-compatible REST application framework, designed for high performance and horizontally scaling solutions.
+- [Pyotr](https://pyotr.readthedocs.io) - A server framework, as well as a client library, for serving and consuming OpenAPI-based Web services. Based on Starlette and [HTTPX](https://www.python-httpx.org/).
 - [Quart](https://github.com/pgjones/quart) - A Python ASGI web microframework whose API is a superset of the Flask API. Supports HTTP (incl. SSE and HTTP/2 server push) and WebSockets.
 - [Responder](https://responder.readthedocs.io/en/latest/) - A familiar HTTP Service Framework for Python, powered by Starlette.
 - [Sanic](https://sanicframework.org/) - Sanic is a Python 3.6+ web server and web framework that's written to go fast. It allows the usage of the async/await syntax added in Python 3.5, which makes your code non-blocking and speedy. Supports HTTP and WebSockets.
@@ -94,10 +95,11 @@ _Packages for monitoring ASGI web applications._
 
 ## Proxies
 
-_Packages for use when running ASGI web applications behind proxies._
+_Packages for use when running ASGI web applications behind proxies, or proxying other servers via ASGI applications._
 
 <!-- sort_by:name -->
 
+- [asgiproxy](https://github.com/valohai/asgiproxy) – Tools for building HTTP and Websocket proxies for ASGI.
 - [ProxyHeadersMiddleware](https://github.com/encode/uvicorn/blob/master/uvicorn/middleware/proxy_headers.py) - Use `X-Forwarded-Proto` and `X-Forwarded-For` headers set by a known and trusted proxy to make `client` and `scheme` reference the connecting client (shipped with Uvicorn).
 
 ## Real-time web
@@ -169,6 +171,7 @@ _Packages and components for managing the security of ASGI web applications._
 
 <!-- sort_by:name -->
 
+- [asgi-ratelimit](https://github.com/abersheeran/asgi-ratelimit) - A customizable rate limiting ASGI middleware, with regex path matching support.
 - [CORSMiddleware](https://www.starlette.io/middleware/#corsmiddleware) - Allow cross-origin requests from browsers. (Shipped with Starlette.)
 - [CSPMiddleware](https://piccolo-api.readthedocs.io/en/latest/csp/index.html) - Tell browsers to only run Javascript from the same origin. (Shipped with Piccolo API.)
 - [CSRFMiddleware](https://piccolo-api.readthedocs.io/en/latest/csrf/index.html) - Protect against CSRF attacks when using cookies for authentication. (Shipped with Piccolo API.)
