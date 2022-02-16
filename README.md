@@ -92,7 +92,7 @@ _Packages for monitoring ASGI web applications._
 - [Scout APM Starlette](https://docs.scoutapm.com/#starlette) - Scout APM integration with Starlette and Starlette-based frameworks. (Shipped with `scout-apm`.)
 - [Sentry ASGI](https://docs.sentry.io/platforms/python/asgi/) - Sentry integration for ASGI frameworks. (Shipped with `sentry-sdk`.)
 - [timing-asgi](https://github.com/steinnes/timing-asgi) - ASGI middleware to record and emit timing metrics.
-- [xraysink](https://github.com/garyd203/xraysink) - framework-independent ASGI middleware to instrument ASGi servers for AWS X-Ray (supplements the official[ X-Ray SDK](https://github.com/aws/aws-xray-sdk-python)) 
+- [xraysink](https://github.com/garyd203/xraysink) - Framework-independent ASGI middleware to instrument ASGi servers for AWS X-Ray (supplements the official [X-Ray SDK](https://github.com/aws/aws-xray-sdk-python)) 
 
 ## Proxies
 
