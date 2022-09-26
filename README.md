@@ -33,6 +33,7 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 - [Serverless](#serverless)
 - [Servers](#servers)
 - [Testing](#testing)
+- [Others](#others)
 
 ## Application frameworks
 
@@ -219,3 +220,11 @@ _Packages for testing ASGI applications._
 - [asgi-lifespan](https://github.com/florimondmanca/asgi-lifespan) - Programmatic startup/shutdown of ASGI apps. Allows testing an ASGI app without having to spin up a server.
 - [async-asgi-testclient](https://github.com/vinissimus/async-asgi-testclient) - A framework-agnostic library for testing ASGI web applications.
 - [HTTPX](https://www.encode.io/httpx) - Next generation HTTP client, including async support and ability to call ASGI apps directly.
+
+## Others
+
+_Other packages that don't fit in previous categories._
+
+<!-- sort_by:name -->
+
+- [Starception](https://github.com/alex-oleshkevich/starception) - Beautiful exception page for Starlette apps.
