@@ -180,6 +180,7 @@ _Packages and components for managing the security of ASGI web applications._
 - [CSRFMiddleware](https://piccolo-api.readthedocs.io/en/latest/csrf/index.html) - Protect against CSRF attacks when using cookies for authentication. (Shipped with Piccolo API.)
 - [HTTPSRedirectMiddleware](https://www.starlette.io/middleware/#httpsredirectmiddleware) - Redirect HTTP/WS traffic to HTTPS/WSS. (Shipped with Starlette.)
 - [RateLimitingMiddleware](https://piccolo-api.readthedocs.io/en/latest/rate_limiting/index.html) - Protect sensitive endpoints from brute force attacks. (Shipped with Piccolo API.)
+- [Starsessions](https://github.com/alex-oleshkevich/starsessions) - Advanced sessions for Starlette and FastAPI frameworks
 - [TrustedHostMiddleware](https://www.starlette.io/middleware/#trustedhostmiddleware) - Guard against host header attacks by validating the `Host` header of requests. (Shipped with Starlette.)
 
 ## Serialization
