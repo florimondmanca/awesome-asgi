@@ -71,6 +71,7 @@ _Real-world applications that run on ASGI._
 <!-- sort_by:name -->
 
 - [Datasette](https://github.com/simonw/datasette/) - A tool for exploring and publishing data, including ASGI-compatible components and plugins.
+- [ypy-websocket](https://github.com/y-crdt/ypy-websocket) - A WebSocket Connector for Ypy - shared data types for building collaborative software.
 
 ## GraphQL
 
