@@ -157,7 +157,7 @@ _Software that experiments with ASGI or otherwise provides "No maintenance inten
 <!-- sort_by:name -->
 
 - [asgi-background](https://github.com/adriangb/asgi-background) - Background tasks for any ASGI framework.
-- [asgi-lifespan-middleware](https://github.com/adriangb/asgi-lifespan) (adriangb) - ASGI middlewate to support ASGI lifespans using a simple async context manager interface.
+- [asgi-lifespan-middleware](https://github.com/adriangb/asgi-lifespan) - ASGI middlewate to support ASGI lifespans using a simple async context manager interface.
 - [asgi-routing](https://github.com/adriangb/asgi-routing) - A high performance router written in Rust for the ASGI ecosystem. Built on top of `routrie` and `path-tree`.
 - [nanoasgi](https://github.com/qweeze/nanoasgi) - A tiny zero-dependency ASGI web framework.
 - [proxyx](https://github.com/florimondmanca/proxyx) - Proof of concept for a lightweight HTTP/1.1 proxy service built with ASGI and HTTPX.
