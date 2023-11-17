@@ -103,6 +103,7 @@ _Packages for use when running ASGI web applications behind proxies, or proxying
 
 <!-- sort_by:name -->
 
+- [asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib) - An ASGI function for proxying to a backend over HTTP.
 - [asgiproxy](https://github.com/valohai/asgiproxy) – Tools for building HTTP and Websocket proxies for ASGI.
 - [ProxyHeadersMiddleware](https://github.com/encode/uvicorn/blob/master/uvicorn/middleware/proxy_headers.py) - Use `X-Forwarded-Proto` and `X-Forwarded-For` headers set by a known and trusted proxy to make `client` and `scheme` reference the connecting client (shipped with Uvicorn).
 
