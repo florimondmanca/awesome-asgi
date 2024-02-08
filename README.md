@@ -23,6 +23,7 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 - [Monitoring](#monitoring)
 - [Proxies](#proxies)
 - [Real-time web](#real-time-web)
+- [Utilities](#utilities)
 - [Resources](#resources)
   - [Reference](#reference)
   - [Talks](#publications)
@@ -114,6 +115,12 @@ _Packages for use when building real-time-capable ASGI web applications._
 <!-- sort_by:name -->
 
 - [python-socketio](https://python-socketio.readthedocs.io) - WebSocket clients and servers using Socket.IO. Includes an ASGI application wrapper.
+
+## Utilities
+
+_Packages for use when required integrations and extra features._
+
+- [asgi-htmx](https://github.com/florimondmanca/asgi-htmx/) - HTMX integration for ASGI applications.
 
 ## Resources
 
