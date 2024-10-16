@@ -96,6 +96,7 @@ _Packages for monitoring ASGI web applications._
 - [asgi-correlation-id](https://github.com/snok/asgi-correlation-id) - Request/Correlation ID logging middleware
 - [New Relic ASGI](https://docs.newrelic.com/docs/agents/python-agent/python-agent-api/asgiapplication-python-agent-api) - New Relic integration for ASGI applications. (Shipped with `newrelic`.)
 - [opentelemetry-python](https://opentelemetry-python-contrib.readthedocs.io/en/latest/instrumentation/asgi/asgi.html) - ASGI middleware and helpers for collecting application metrics via the (currently alpha) OpenTelemetry standard. Supports HTTP and WebSocket.
+- [Pyrollbar](https://github.com/rollbar/pyrollbar) - Rollbar notifier for reporting exceptions, errors, and log messages. Supports all ASGI frameworks and includes dedicated integrations for [FastAPI](https://docs.rollbar.com/docs/fastapi) and [Starlette](https://docs.rollbar.com/docs/starlette). (Shipped with `rollbar`.)
 - [Scout APM Starlette](https://docs.scoutapm.com/#starlette) - Scout APM integration with Starlette and Starlette-based frameworks. (Shipped with `scout-apm`.)
 - [Sentry ASGI](https://docs.sentry.io/platforms/python/asgi/) - Sentry integration for ASGI frameworks. (Shipped with `sentry-sdk`.)
 - [timing-asgi](https://github.com/steinnes/timing-asgi) - ASGI middleware to record and emit timing metrics.
