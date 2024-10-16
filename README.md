@@ -117,12 +117,14 @@ _Packages for use when building real-time-capable ASGI web applications._
 <!-- sort_by:name -->
 
 - [python-socketio](https://python-socketio.readthedocs.io) - WebSocket clients and servers using Socket.IO. Includes an ASGI application wrapper.
+- [ReactPy](https://github.com/reactive-python/reactpy) - A reactive programming framework for Python, with support for ASGI.
 
 ## Utilities
 
 _Packages for use when required integrations and extra features._
 
 - [asgi-htmx](https://github.com/florimondmanca/asgi-htmx/) - HTMX integration for ASGI applications.
+- [ServeStatic](https://github.com/Archmonger/ServeStatic) - Production-grade static file server for Python web apps.
 
 ## Resources
 
@@ -228,6 +230,7 @@ _Web servers for ASGI applications._
 - [Hypercorn](https://pgjones.gitlab.io/hypercorn/index.html) - An ASGI server based on the sans-io hyper, h11, h2, and wsproto libraries. Supports HTTP/1, HTTP/2, WebSockets, ASGI 2.0 and ASGI 3.0. Compatible with asyncio, uvloop and trio worker types.
 - [NGINX Unit](https://unit.nginx.org) - A universal web app server that supports ASGI.
 - [Uvicorn](https://www.uvicorn.org/) - A fast ASGI server based on uvloop and httptools. Supports HTTP/1 and WebSockets.
+- [Granian](https://github.com/emmett-framework/granian) - A high performance ASGI server based written in Rust.
 
 ## Testing
 
