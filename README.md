@@ -93,7 +93,7 @@ _Packages for monitoring ASGI web applications._
 
 <!-- sort_by:name -->
 
-- [Apitally](https://github.com/apitally/python-client) - Easy API monitoring via middleware for popular ASGI frameworks (including FastAPI, Django, Starlette, Litestar).
+- [Apitally](https://github.com/apitally/apitally-py) - Simple, privacy-focused API monitoring, analytics and request logging for popular ASGI frameworks (including FastAPI, Django, Starlette, Litestar).
 - [asgi-correlation-id](https://github.com/snok/asgi-correlation-id) - Request/Correlation ID logging middleware
 - [New Relic ASGI](https://docs.newrelic.com/docs/agents/python-agent/python-agent-api/asgiapplication-python-agent-api) - New Relic integration for ASGI applications. (Shipped with `newrelic`.)
 - [opentelemetry-python](https://opentelemetry-python-contrib.readthedocs.io/en/latest/instrumentation/asgi/asgi.html) - ASGI middleware and helpers for collecting application metrics via the (currently alpha) OpenTelemetry standard. Supports HTTP and WebSocket.
