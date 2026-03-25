@@ -57,7 +57,7 @@ _Frameworks for building ASGI web applications._
 - [Starlette](https://www.starlette.io/) - The little ASGI framework that shines. Starlette is also an ASGI toolkit -- its modular design and reusable components made it foundational in the ASGI ecosystem. Supports HTTP and WebSockets. Supports asyncio and trio.
 - [Tonberry](https://ayehavgunne.github.io/Tonberry/) - Tonberry is an ASGI framework that takes a class based approach to routing. Influenced by CherryPy but made compatible with asyncio and WebSockets.
 - [Tremolo](https://github.com/nggit/tremolo/) - Zero dependency ASGI server and web framework for Python. Request and response limits, bandwidth throttling, resumable downloads, multipart form uploads / streaming downloads, worker reloading. Only 2,500 lines with a focus on minimalism and stability.
-- [Project-Nebula](https://github.com/amogus-gggy/Project-Nebula) - Fast async ASGI framework, written in Python 3.10+ and Cython from scratch, with amazing performance, and support WebSockets.
+- [Project-Nebula](https://github.com/amogus-gggy/Project-Nebula) - Fast async ASGI framework, written in Python 3.10+ and Cython from scratch, with amazing performance, and support of WebSockets.
 
 ## Authentication
 
