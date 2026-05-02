@@ -40,7 +40,6 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 _Frameworks for building ASGI web applications._
 
 <!-- sort_by:name -->
-
 - [Asgineer](https://github.com/almarklein/asgineer) - A really thin ASGI web framework, which includes support for long polling, SSE and websockets.
 - [BlackSheep](https://github.com/Neoteroi/BlackSheep) - BlackSheep is an asynchronous web framework to build event based web applications with Python. It is inspired by Flask, ASP.NET Core, and the work by Yury Selivanov.
 - [Channels](https://channels.readthedocs.io/en/latest/) - Asynchronous support for Django, and the original driving force behind the ASGI project. Supports HTTP and WebSockets with Django integration, and any protocol with ASGI-native code.
@@ -50,6 +49,7 @@ _Frameworks for building ASGI web applications._
 - [FastHTML](https://fastht.ml) - Modern web applications in pure Python. Built on solid web foundations, not the latest fads. Powerful and expressive, fast and lightweight, compact code, easy to learn and use.
 - [Guillotina](https://github.com/plone/guillotina) - Full-featured ASGI-compatible REST application framework, designed for high performance and horizontally scaling solutions.
 - [Litestar](https://litestar.dev/) - A [high-performance](https://docs.litestar.dev/latest/benchmarks.html) ASGI framework, which offers [msgspec-based](https://github.com/jcrist/msgspec) message parsing, Depdency-Injection, Authentication, OpenAPI docs, and more. Supports HTTP and Websockets. Supports asyncio and trio.
+- [Project-Nebula](https://github.com/amogus-gggy/Project-Nebula) - Fast async ASGI framework, written in Python 3.10+ and Cython from scratch, with amazing performance, and support of WebSockets.
 - [Pyotr](https://pyotr.readthedocs.io) - A server framework, as well as a client library, for serving and consuming OpenAPI-based Web services. Based on Starlette and [HTTPX](https://www.python-httpx.org/).
 - [Quart](https://github.com/pgjones/quart) - A Python ASGI web microframework whose API is a superset of the Flask API. Supports HTTP (incl. SSE and HTTP/2 server push) and WebSockets.
 - [Responder](https://responder.readthedocs.io/en/latest/) - A familiar HTTP Service Framework for Python, powered by Starlette.
@@ -57,6 +57,7 @@ _Frameworks for building ASGI web applications._
 - [Starlette](https://www.starlette.io/) - The little ASGI framework that shines. Starlette is also an ASGI toolkit -- its modular design and reusable components made it foundational in the ASGI ecosystem. Supports HTTP and WebSockets. Supports asyncio and trio.
 - [Tonberry](https://ayehavgunne.github.io/Tonberry/) - Tonberry is an ASGI framework that takes a class based approach to routing. Influenced by CherryPy but made compatible with asyncio and WebSockets.
 - [Tremolo](https://github.com/nggit/tremolo/) - Zero dependency ASGI server and web framework for Python. Request and response limits, bandwidth throttling, resumable downloads, multipart form uploads / streaming downloads, worker reloading. Only 2,500 lines with a focus on minimalism and stability.
+
 
 ## Authentication
 
