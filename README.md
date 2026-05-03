@@ -118,12 +118,14 @@ _Packages for use when building real-time-capable ASGI web applications._
 <!-- sort_by:name -->
 
 - [python-socketio](https://python-socketio.readthedocs.io) - WebSocket clients and servers using Socket.IO. Includes an ASGI application wrapper.
+- [ReactPy](https://github.com/reactive-python/reactpy) - A reactive programming framework for Python, with support for ASGI.
 
 ## Utilities
 
 _Packages for use when required integrations and extra features._
 
 - [asgi-htmx](https://github.com/florimondmanca/asgi-htmx/) - HTMX integration for ASGI applications.
+- [ServeStatic](https://github.com/Archmonger/ServeStatic) - Production-grade static file server for Python web apps.
 
 ## Resources
 
