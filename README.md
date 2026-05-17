@@ -76,6 +76,7 @@ _Real-world applications that run on ASGI._
 
 - [ASGIWebDAV](https://github.com/rexzhang/asgi-webdav) - An asynchronous WebDAV server implementation. Support multi-provider, multi-account and permission control.
 - [Datasette](https://github.com/simonw/datasette/) - A tool for exploring and publishing data, including ASGI-compatible components and plugins.
+- [ypy-websocket](https://github.com/y-crdt/ypy-websocket) - A WebSocket Connector for Ypy - shared data types for building collaborative software.
 
 ## GraphQL
 
