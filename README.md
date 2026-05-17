@@ -124,6 +124,7 @@ _Packages for use when building real-time-capable ASGI web applications._
 _Packages for use when required integrations and extra features._
 
 - [asgi-htmx](https://github.com/florimondmanca/asgi-htmx/) - HTMX integration for ASGI applications.
+- [blacknoise](https://github.com/matthiask/blacknoise) - Static file serving middleware for ASGI applications.
 
 ## Resources
 
