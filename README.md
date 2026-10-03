@@ -124,6 +124,7 @@ _Packages for use when building real-time-capable ASGI web applications._
 _Packages for use when required integrations and extra features._
 
 - [asgi-htmx](https://github.com/florimondmanca/asgi-htmx/) - HTMX integration for ASGI applications.
+- [fastapi-idempotency-key](https://github.com/Luan1Schons/fastapi-idempotency-key) - Stripe-style `Idempotency-Key` middleware for exactly-once request handling, with Memory, SQLite and Redis backends.
 
 ## Resources
 
