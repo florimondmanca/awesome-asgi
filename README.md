@@ -196,6 +196,7 @@ _Packages and components for managing the security of ASGI web applications._
 - [CORSMiddleware](https://www.starlette.io/middleware/#corsmiddleware) - Allow cross-origin requests from browsers. (Shipped with Starlette.)
 - [CSPMiddleware](https://piccolo-api.readthedocs.io/en/latest/csp/index.html) - Tell browsers to only run Javascript from the same origin. (Shipped with Piccolo API.)
 - [CSRFMiddleware](https://piccolo-api.readthedocs.io/en/latest/csrf/index.html) - Protect against CSRF attacks when using cookies for authentication. (Shipped with Piccolo API.)
+- [fastapi-guard](https://github.com/Guard-Core/fastapi-guard) - Security middleware for FastAPI and Starlette with IP filtering, rate limiting with automatic bans and penetration attempt detection.
 - [HTTPSRedirectMiddleware](https://www.starlette.io/middleware/#httpsredirectmiddleware) - Redirect HTTP/WS traffic to HTTPS/WSS. (Shipped with Starlette.)
 - [RateLimitingMiddleware](https://piccolo-api.readthedocs.io/en/latest/rate_limiting/index.html) - Protect sensitive endpoints from brute force attacks. (Shipped with Piccolo API.)
 - [TrustedHostMiddleware](https://www.starlette.io/middleware/#trustedhostmiddleware) - Guard against host header attacks by validating the `Host` header of requests. (Shipped with Starlette.)
