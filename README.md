@@ -117,6 +117,7 @@ _Packages for use when building real-time-capable ASGI web applications._
 
 <!-- sort_by:name -->
 
+- [fastapi-stream-lease](https://github.com/agustin18/fastapi-stream-lease) - Distributed concurrency and lease manager for active SSE and LLM streams in FastAPI and Starlette.
 - [python-socketio](https://python-socketio.readthedocs.io) - WebSocket clients and servers using Socket.IO. Includes an ASGI application wrapper.
 
 ## Utilities
