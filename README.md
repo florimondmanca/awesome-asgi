@@ -124,6 +124,7 @@ _Packages for use when building real-time-capable ASGI web applications._
 _Packages for use when required integrations and extra features._
 
 - [asgi-htmx](https://github.com/florimondmanca/asgi-htmx/) - HTMX integration for ASGI applications.
+- [UsageRail](https://usagerail.com/docs/fastapi) - API key checks, per-customer rate limits, quotas and usage metering as ASGI middleware for FastAPI and Starlette.
 
 ## Resources
 
