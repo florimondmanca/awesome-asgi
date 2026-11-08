@@ -50,6 +50,7 @@ _Frameworks for building ASGI web applications._
 - [FastHTML](https://fastht.ml) - Modern web applications in pure Python. Built on solid web foundations, not the latest fads. Powerful and expressive, fast and lightweight, compact code, easy to learn and use.
 - [Guillotina](https://github.com/plone/guillotina) - Full-featured ASGI-compatible REST application framework, designed for high performance and horizontally scaling solutions.
 - [Litestar](https://litestar.dev/) - A [high-performance](https://docs.litestar.dev/latest/benchmarks.html) ASGI framework, which offers [msgspec-based](https://github.com/jcrist/msgspec) message parsing, Depdency-Injection, Authentication, OpenAPI docs, and more. Supports HTTP and Websockets. Supports asyncio and trio.
+- [OxiApp](https://github.com/sandy98/oxi) - A fast, simple, and lightweight ASGI micro-framework inspired by Bottle. Features dynamic routing for http/websockets/sse requests, built-in sessions, Lifespan hooks, and the unique ability to seamlessly mount WSGI/ASGI apps and chain fallback applications. 
 - [Pyotr](https://pyotr.readthedocs.io) - A server framework, as well as a client library, for serving and consuming OpenAPI-based Web services. Based on Starlette and [HTTPX](https://www.python-httpx.org/).
 - [Quart](https://github.com/pgjones/quart) - A Python ASGI web microframework whose API is a superset of the Flask API. Supports HTTP (incl. SSE and HTTP/2 server push) and WebSockets.
 - [Responder](https://responder.readthedocs.io/en/latest/) - A familiar HTTP Service Framework for Python, powered by Starlette.
@@ -227,6 +228,7 @@ _Web servers for ASGI applications._
 - [Daphne](http://github.com/django/daphne) - An HTTP, HTTP2 and WebSocket protocol server for ASGI, developed to power Django Channels.
 - [Granian](https://github.com/emmett-framework/granian) - A high performance Rust HTTP server for Python applications supporting ASGI/3 ASGI/3, RSGI and WSGI interfaces. Currenlty implementing HTTP 1 and 2 (eventually 3), HTTPS and websockets. 
 - [Hypercorn](https://github.com/pgjones/hypercorn) - An ASGI server based on the sans-io hyper, h11, h2, and wsproto libraries. Supports HTTP/1, HTTP/2, WebSockets, ASGI 2.0 and ASGI 3.0. Compatible with asyncio, uvloop and trio worker types.
+- [OxiServer](https://github.com/sandy98/oxi) - A polyglot ASGI/WSGI server. It embeds CPython directly into a C++ engine to achieve zero-copy static file serving (1.45 GB/sec) and embedded ASGI execution. Also includes a Julia engine for Unix socket IPC and a pure Python fallback. Supports HTTP, WebSockets, SSE, CGI, PHP, and the ASGI Lifespan protocol, all of them out of the box with zero config effort.
 - [Uvicorn](https://www.uvicorn.org/) - A fast ASGI server based on uvloop and httptools. Supports HTTP/1 and WebSockets.
 
 ## Testing
